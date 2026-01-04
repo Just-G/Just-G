@@ -1,6 +1,6 @@
 ## About me
 
-I am an android developer with over 3 years of experience. I currently work with credit card app with over 10M users.
+I am an android developer with over 3 years of experience. I currently work on credit card app with 10M users in Thailand.
 
 I enjoy collaborating with cross-functional teams, sharing ideas, and learning from others. Always open to exploring new frameworks, cross-platform tools, or languages to grow as a developer and deliver better products.
 
